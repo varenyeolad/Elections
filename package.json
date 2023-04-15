@@ -14,5 +14,8 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.9"
   }
 }
