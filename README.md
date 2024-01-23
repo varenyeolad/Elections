@@ -2,7 +2,7 @@
 
 ## Step 1. Clone the project
 
-git clone https://github.com/ArchLinuxStudio/election
+git clone https://github.com/varenyeolad/Elections.git
 
 ## Step 2. Install dependencies
 
